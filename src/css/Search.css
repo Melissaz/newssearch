@@ -1,0 +1,15 @@
+.search-header{
+   height:60px;
+   background-color:grey;
+   margin-top:30px;
+}
+
+.search-header{
+    text-align: left;
+    color:white;
+    font-size:20px;
+}
+
+.search-nav{
+    margin-top:10px;
+}
